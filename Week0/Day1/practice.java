@@ -1,4 +1,4 @@
-package Day1;
+package Week0.Day1;
 
 public class practice {
     
