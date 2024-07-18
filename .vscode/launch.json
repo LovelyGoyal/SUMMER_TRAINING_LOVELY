@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sorting1",
+            "request": "launch",
+            "mainClass": "Week1.Sorting1",
+            "projectName": "SUMMER_TRAINING_LOVELY_93a68708"
+        },
+        {
+            "type": "java",
             "name": "Sorting",
             "request": "launch",
             "mainClass": "Week1.Sorting",
